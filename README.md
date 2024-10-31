@@ -1,3 +1,5 @@
+# Título
+## Subtítulo 1 
 - 👋 Hola, soy Miguel,
 - 👀 Interesado en aprender Desarrollo de Aplicaciones Multiplataforma 
 - 🌱 Actualmente cursando DAM en IES TAL TAL
@@ -5,6 +7,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Subtítulo 2
+...
 
 <!---
 miguelprz3/miguelprz3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
