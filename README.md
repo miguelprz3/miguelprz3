@@ -28,8 +28,9 @@ Soy *Miguel Pérez Montoya*, estudiante de Desarrollo de Aplicaciones con mucho 
 
 
 ## 💼 Preferencias tecnológicas
+- Frontend
+- Backend
 - Full Stack Developer
-- Analista de datos
 - Diseño UI/UX
 
 ## 📫 Contacta conmigo
