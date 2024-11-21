@@ -37,7 +37,9 @@ Soy *Miguel Pérez Montoya*, estudiante de Desarrollo de Aplicaciones con mucho 
 
 - **Correo:** 1567077@alu.murciaeduca.es
 - [**LinkedIn**](https://www.linkedin.com/in/miguel-p%C3%A9rez-montoya-198301336/)
+
 ---
+<h2 align="center">GitHub Stats<h2/>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miguelprz3&theme=dark&hide_border=true&border_radius=25&mode=weekly" alt="GitHub Streak" /></a>
 <p/>
 <p align="center"><a href="https://github.com/miguelprz3/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelprz3&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies"></a>
