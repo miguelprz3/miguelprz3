@@ -38,7 +38,9 @@ Soy *Miguel Pérez Montoya*, estudiante de Desarrollo de Aplicaciones con mucho 
 - **Correo:** 1567077@alu.murciaeduca.es
 - [**LinkedIn**](https://www.linkedin.com/in/miguel-p%C3%A9rez-montoya-198301336/)
 
+---
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miguelprz3&theme=dark&hide_border=true&border_radius=25&mode=weekly" alt="GitHub Streak" /></a>
 
 <!--
 **miguelprz3/miguelprz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
